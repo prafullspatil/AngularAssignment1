@@ -1,0 +1,92 @@
+{
+  "Products": [
+    {
+      "id": 3,
+      "product_id": "3",
+      "product_name": "iphone 13",
+      "category": "Mobiles",
+      "model_no": "BQZP343",
+      "released_date": "11-08-2021",
+      "stock_units": "13",
+      "description": "Liquid Retina HD display",
+      "price": "506954"
+    },
+    {
+      "product_id": "101",
+      "product_name": "apple",
+      "category": "mobile",
+      "model_no": "AMAALE",
+      "released_date": "2022-04-02",
+      "stock_units": "120",
+      "description": "hii",
+      "price": "1000000",
+      "id": 6
+    },
+    {
+      "product_id": "101",
+      "product_name": "Dell",
+      "category": "laptop",
+      "model_no": "AMIEUO29",
+      "released_date": "2022-04-14",
+      "stock_units": "12",
+      "description": "Laptop",
+      "price": "150000",
+      "id": 7
+    },
+    {
+      "product_id": "9",
+      "product_name": "Realme XT",
+      "category": "mobile",
+      "model_no": "AWUWKB",
+      "released_date": "2022-04-08",
+      "stock_units": "15",
+      "description": "Snapdragon 885+",
+      "price": "150000",
+      "id": 8
+    },
+    {
+      "product_id": "12",
+      "product_name": "Redmi note 10",
+      "category": "mobile",
+      "model_no": "DIEO65",
+      "released_date": "2022-04-09",
+      "stock_units": "100",
+      "description": "Meditek 85",
+      "price": "14000",
+      "id": 9
+    },
+    {
+      "product_id": "15",
+      "product_name": "Oneplus 6T",
+      "category": "mobile",
+      "model_no": "KIDHSN17",
+      "released_date": "2022-04-09",
+      "stock_units": "1",
+      "description": "Snapdragon 120hz",
+      "price": "260000",
+      "id": 10
+    },
+    {
+      "product_id": "105",
+      "product_name": "Sansui",
+      "category": "tv",
+      "model_no": "WAQE123",
+      "released_date": "2022-04-02",
+      "stock_units": "53",
+      "description": "Sansui 52inch ",
+      "price": "23000",
+      "id": 11
+    },
+    {
+      "product_id": "13",
+      "product_name": "Oneplus 9R",
+      "category": "mobile",
+      "model_no": "snfsljn",
+      "released_date": "2022-04-03",
+      "stock_units": "12",
+      "description": "OnePlus 9R",
+      "price": "350000",
+      "id": 12
+    }
+  ]
+}
